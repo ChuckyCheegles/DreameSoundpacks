@@ -1,5 +1,5 @@
 # Information
-These are soundpacks I created for use with my Dreame vacuums that have been rooted with Valetudo(Hypfer/Valetudo). I own none of the sounds in these packs unless otherwise stated. All I did was create the packs for others.
+These are soundpacks I created for use with my Dreame vacuums that have been rooted with Valetudo([Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)). I own none of the sounds in these packs unless otherwise stated. All I did was create the packs for others.
 # How To Install
 ## Memz Soundpack
 - Go to the voicepacks section of Valetudo
