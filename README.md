@@ -13,3 +13,9 @@ This is the second pack I made! I used JonTron clips and assembled them into thi
 - Use the URL: ```https://github.com/ChuckyCheegles/DreameSoundpacks/raw/main/jontron.tar.gz```
 - The MD5 Hash: ```c6a346615915fee171bfd6798263f6d6```
 - And whatever language code you'd like
+## SpongeBob Squarepants Soundpack
+This is my first attempt at doing an AI conversion. I did this for a Cyberpunk mod a long time ago and I just did the same process with Spongebob.
+- Go to the voicepacks section of Valetudo
+- Use the URL: ```https://github.com/ChuckyCheegles/DreameSoundpacks/raw/main/jontron.tar.gz```
+- The MD5 Hash: ```a0ca8dd88285d098efc36a7e65572c13```
+- And whatever language code you'd like
