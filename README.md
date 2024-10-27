@@ -17,5 +17,5 @@ This is the second pack I made! I used JonTron clips and assembled them into thi
 This is my first attempt at doing an AI conversion. I did this for a Cyberpunk mod a long time ago and I just did the same process with Spongebob.
 - Go to the voicepacks section of Valetudo
 - Use the URL: ```https://github.com/ChuckyCheegles/DreameSoundpacks/raw/main/spongebob.tar.gz```
-- The MD5 Hash: ```a0ca8dd88285d098efc36a7e65572c13```
+- The MD5 Hash: ```89c97633e100ae14944674f34621fcd0```
 - And whatever language code you'd like
