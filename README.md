@@ -19,3 +19,9 @@ This is my first attempt at doing an AI conversion. I did this for a Cyberpunk m
 - Use the URL: ```https://github.com/ChuckyCheegles/DreameSoundpacks/raw/main/spongebob.tar.gz```
 - The MD5 Hash: ```89c97633e100ae14944674f34621fcd0```
 - And whatever language code you'd like
+## Morgan Freeman Soundpack
+An AI conversion of the original sound files to sound like Morgan Freeman.
+- Go to the voicepacks section of Valetudo
+- Use the URL: ```https://github.com/ChuckyCheegles/DreameSoundpacks/raw/main/morganfreeman.tar.gz```
+- The MD5 Hash: ```eb68570553bae8c26552009c6af6a0bb```
+- And whatever language code you'd like****
